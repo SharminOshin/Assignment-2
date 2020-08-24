@@ -1,0 +1,56 @@
+*{
+ padding: 0px;
+ magin:0px;
+  
+}
+
+body{
+	font-family: 'Oswald', sans-serif;
+	background:url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
+
+.container{
+	width: 660px;
+	margin: 40% auto;
+}
+
+.login-section{
+	background-color: purple;
+	padding: 25px;
+}
+.login-section img{
+	margin:0 auto;
+	display:block;
+	width:200px
+
+}
+.login-section h2{
+
+	text-align: center;
+	color: white;
+	margin: 10px 0;
+	font-size: 32px;
+	text-transform: uppercase;
+}
+.form-control{
+
+	width: 96%;
+
+	height: 30px;
+
+	padding: 3px;
+
+	margin-bottom: 10px;
+}
+
+.btn{
+    margin: 0 auto;
+    display: block;
+    background: #cccc00;
+    border: none;
+    padding: 10px 20px;
+    color: #0000FF;
+    box-shadow: 1px 1px 2px blue;
+}
